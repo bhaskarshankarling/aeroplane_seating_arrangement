@@ -1,6 +1,6 @@
-require_relative './plane/available_seats'
-require_relative './plane/block'
-require_relative './plane/seat'
+require_relative './seating_arrangement/available_seats'
+require_relative './seating_arrangement/block'
+require_relative './seating_arrangement/seat'
 
 module SeatingArrangement
   class Plane
