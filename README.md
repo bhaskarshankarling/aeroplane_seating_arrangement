@@ -1,0 +1,2 @@
+# aeroplane_seating_arrangement
+Implementation of aeroplane seating arragement
