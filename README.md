@@ -20,6 +20,7 @@ seating_arrangement.reserve_seats(number_of_seats_to_reserve)
 
 ### Run some test cases
 ```bash
+cd aeroplane_seating_arrangement
 ruby tests/test_seat.rb
 ruby tests/test_block.rb
 ```
